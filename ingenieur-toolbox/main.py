@@ -5,6 +5,8 @@ Starten mit:  python main.py
 
 Jedes Werkzeug liegt als eigene Datei im Ordner "werkzeuge/".
 Neue Dateien dort werden automatisch im Menue angezeigt.
+
+Probiert euch einfach mal aus, das richtige Repo kommt spaeter noch.
 """
 
 from werkzeuge import lade_werkzeuge
